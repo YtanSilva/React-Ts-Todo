@@ -2,7 +2,7 @@
 
 This project was planned to facilitate the daily lives of users, helping them with the small tasks they need to do. The application basically consists of a list of tasks that is managed by the user.
 
-## tecnologies
+## technologies
 
 The application was built in React with Typescript and Styled Components was used to style it.
 
@@ -12,7 +12,7 @@ in the project directory, you can run:
 
 `npm run dev`
 
-## Demo
+## Preview
 
 <br>
 
