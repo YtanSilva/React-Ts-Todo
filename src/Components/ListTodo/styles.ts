@@ -20,10 +20,8 @@ export const Container = styled.div(({ done }: ContainerProps) => (
         }
 
         label{
-            color: snow;
             opacity: .9;
             text-decoration: ${done ? "line-through" : "initial"};
-
         }
     `
 ))

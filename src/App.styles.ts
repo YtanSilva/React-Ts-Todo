@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Container = styled.div`
     min-height: 100vh;
     min-width: 100vw;
-    background-color: #3a3d3e;
+    background-color: #2e2f35;
 `
 
 export const Box = styled.div`
@@ -12,7 +12,6 @@ export const Box = styled.div`
 `
 
 export const Heading = styled.h1`
-    color: snow;
     font-size: 2rem;
     text-align: center;
     margin-bottom: 1.5rem;

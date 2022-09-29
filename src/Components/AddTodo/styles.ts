@@ -17,10 +17,8 @@ export const Container = styled.div`
         background-color: transparent;
         flex: 1;
         font-size: 1.25rem;
-        color: #FFF;
 
         ::placeholder{ 
-            color: #FFF;
             opacity: .7;
         }
     }
